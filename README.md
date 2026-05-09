@@ -7,7 +7,7 @@ I am a former Corporate System Administrator transitioning into **Offensive Secu
 
 ---
 ## 🚀 What I'm currently working on:
-- **DeliriumXS Android Kernel:** Optimizing **Kernel 4.14** for NFC modules (PN553) using **Google Antigravity** agents.
+- **DeliriumXS Android Kernel:** Optimizing **Kernel 6.1** for NFC modules (PN553) using **Google Antigravity** and LLM agents.
 - **Problem Solving:** I specialize in picking up complex, "stuck" tasks and bringing them to perfection. If you have a broken kernel or a bottlenecked C# project – I’m your person.
 
 ## 🚀 The Core Engine: Google Antigravity
