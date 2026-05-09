@@ -17,7 +17,7 @@ My development workflow is built around **Google Antigravity**. I don't just wri
 - **Smart Compilation:** Leveraging AI-led logic to automate and optimize the build process for specialized hardware environments.
 
 ## 🛠️ Featured Projects:
-- **Custom Android ROM & Kernel:** - **Core:** Recompiled **Kernel 4.14** specifically optimized for **PN553 NFC** modules.
+- **Custom Android ROM & Kernel:** - **Core:** Recompiled **Kernel 6.1** specifically optimized for **PN553 NFC** modules.
   - **Performance:** Achieved a **50% boost** in hardware module responsiveness.
   - **Innovation:** Modified HAL services to enable seamless hardware sharing with sub-system OS (chroot).
 - **Libnfc Optimizations:** Custom configurations for enhanced NFC polling and research.
