@@ -46,4 +46,6 @@ My foundation is built on years of designing and managing complex corporate envi
 > "In total chaos, I find my perfect order. I don't just use tools; I rewrite them with the help of agents to push the boundaries of what's possible."
 
 ---
-📫 **Connect with me:** https://www.freelancer.com/u/DeliriumXS?frm=DeliriumXS&sb=t
+📫 **Connect with me:** 
+E-Mail: admin@alpha-ra21.com
+Web: https://deliriumxs.link
